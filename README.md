@@ -8,4 +8,6 @@ system reboot
 ```
 
 To access `/System/Library/Extensions/` use this command which works until restart:
-```sudo mount -uw /```
+```
+sudo mount -uw /
+```
